@@ -8,12 +8,12 @@
 
 </br>
 
-Zebra Android 端末にはピックリストモードがあります。本モードを設定するとエイマー（光点）にしょうじゅんを合わせたバーコードのみをスキャン・デコードするようになります。
+Zebra Android 端末にはピックリストモードがあります。本モードを設定するとエイマー（光点）に照準を合わせたバーコードのみをスキャン・デコードするようになります。
 
 ### 設定方法
 
-1. Android 端末でDatawedgeを起動します。
-2. Datawedgeで下記設定をします。
+1. Android 端末でDatawedgeを起動します。  
+2. Datawedgeで下記設定をします。  
    任意のProfile > Configure Scanner Settings > Reader Params > illumination Mode = "Hardware Picklist" or "Software Picklist"
 
 <img width="300" src="https://supportcommunity.zebra.com/servlet/rtaImage?eid=ka10H000000KGpN&feoid=00N0H00000K2Eou&refid=0EM0H000001MQYN">
